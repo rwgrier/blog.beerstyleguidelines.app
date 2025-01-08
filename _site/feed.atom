@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.atom" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-07T20:13:02-05:00</updated><id>http://localhost:4000/feed.atom</id><title type="html">Beer Style Guidelines</title><subtitle>A site where I write (poorly) about a lot of dumb stuff.</subtitle><entry><title type="html">Beer Style Guidelines Release Notes Blog</title><link href="http://localhost:4000/2025/01/07/a-blog/" rel="alternate" type="text/html" title="Beer Style Guidelines Release Notes Blog" /><published>2025-01-07T12:00:00-05:00</published><updated>2025-01-07T12:00:00-05:00</updated><id>http://localhost:4000/2025/01/07/a-blog</id><content type="html" xml:base="http://localhost:4000/2025/01/07/a-blog/"><![CDATA[<p>This is the first post of the Beer Style Guidelines release notes blog.</p>
+
+<p>Most posts here will be the release notes for each app release. This includes the upcoming v2025.1 release (expected later this month).</p>
+
+<p>There may be the occasional non-release post.</p>
+
+<p>You can subscribe to the <a href="/feed.atom">RSS feed</a> to stay on top of the updates.</p>
+
+<p>🍺</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[This is the first post of the Beer Style Guidelines release notes blog.]]></summary></entry></feed>

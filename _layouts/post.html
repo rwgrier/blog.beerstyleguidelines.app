@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="container">
+	<h2>{{ page.title }}</h2>
+    <p class="blog-post-meta">
+		{{ page.date | date: "%B %e, %Y" }}
+   </p>
+  
+	<article class="blog-post">
+	  {{ content }}
+	</article>
+	
+	<div class="mx-auto pb-3">
+	
+	{% if page.previous.url %}
+		<a href="{{ page.previous.url }}">Older</a>
+	{% else %}
+		<span class="text-gray-200">Older</span>
+	{% endif %}
+		•
+	{% if page.next.url %}
+		<a href="{{ page.next.url }}">Newer</a>
+	{% else %}
+		<span class="text-gray-200">Newer</span>
+	{% endif %}
+	
+	</div>
+
+</div>
