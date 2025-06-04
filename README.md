@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2963f5ea-e97e-4184-97f8-e0e9edf2338c/deploy-status)](https://app.netlify.com/sites/beerstylesblog/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1584e133-0d9f-4fbc-aabe-b502051dd23e/deploy-status)](https://app.netlify.com/projects/blog-beerstyles/deploys)
 
 Beer Style Guidelines Release Notes Blog
 
